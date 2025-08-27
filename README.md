@@ -11,10 +11,7 @@ This project demonstrates how to build smooth, declarative animations in **Jetpa
 ---
 ## 🎥 Demo
 
-<video src="media/demo.mp4" controls width="500"></video>
-
-*Click the play button above to see the card expand with smooth animations.*
-
+[▶️ Watch the demo](media/demo.mp4)
 
 ## 📝 Blog Post
 
