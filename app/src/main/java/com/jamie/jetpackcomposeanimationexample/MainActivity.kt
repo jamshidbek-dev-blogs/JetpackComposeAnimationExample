@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             JetpackComposeAnimationExampleTheme {
                 Scaffold(
-                    modifier = Modifier.fillMaxSize(),
+                    modifier = Modifier.fillMaxSize().padding(vertical = 40.dp),
                     topBar = {
                         Text(
                             text = "Expandable Card Demo",
